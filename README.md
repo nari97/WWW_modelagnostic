@@ -1,5 +1,5 @@
-<p align="center"># A Model-Agnostic Method to Interpret Link Prediction Tasks
-Performed by Knowledge Graph Embeddings</p>
+# A Model-Agnostic Method to Interpret Link Prediction Tasks
+Performed by Knowledge Graph Embeddings
 
 ## Abstract 
 Link prediction assigns plausibility scores to unseen triples in a
