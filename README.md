@@ -11,7 +11,7 @@ must to advance the field. Current methods have mainly focused on
 single predictions or other tasks different than link prediction. Since
 knowledge graph embedding methods are diverse, interpretation
 methods that are applicable only to certain machine learning approaches cannot be used. 
-In this paper, we propose a model-agnosticmethod for interpreting the link prediction task as a whole. Triples
+In this paper, we propose a model-agnostic method for interpreting the link prediction task as a whole. Triples
 deemed plausible by a model are materialized in a new knowledge
 graph. We mine Horn rules from such graph to succinctly represent
 it. Mined rules are accompanied by precision and recall measurements, which we combine using F𝛽 score to quantify interpretation
